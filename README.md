@@ -1,3 +1,3 @@
 # firstDemoRepo
 This is the first github repository.
-This is second line.
+I delete second line.
