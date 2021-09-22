@@ -1,0 +1,4 @@
+https://github.com/microsoft/Git-Credential-Manager-Core/releases/tag/v2.0.498
+
+sudo dpkg -i <path-to-package>
+git-credential-manager-core configure
